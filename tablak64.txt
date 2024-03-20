@@ -1,0 +1,650 @@
+Királynők száma 0
+********
+********
+********
+********
+********
+********
+********
+********
+
+Királynők száma 1
+********
+********
+********
+********
+********
+********
+****K***
+********
+
+Királynők száma 2
+********
+********
+********
+********
+**K*****
+*K******
+********
+********
+
+Királynők száma 3
+********
+********
+********
+********
+*K******
+******K*
+********
+****K***
+
+Királynők száma 4
+********
+*KK*****
+********
+*****K**
+********
+*K******
+********
+********
+
+Királynők száma 5
+******KK
+********
+****K***
+**K*****
+**K*****
+********
+********
+********
+
+Királynők száma 6
+********
+K*******
+K*******
+********
+**K*****
+*K******
+*****KK*
+********
+
+Királynők száma 7
+********
+******K*
+**KK**K*
+**K*****
+********
+*K***K**
+********
+********
+
+Királynők száma 8
+********
+********
+********
+K****K*K
+********
+***K**K*
+*******K
+*K*****K
+
+Királynők száma 9
+**KK*K**
+******K*
+********
+********
+*K*K****
+******KK
+********
+***K****
+
+Királynők száma 10
+**K*****
+K****K**
+*K*K****
+**K***K*
+********
+**K**K**
+K*******
+********
+
+Királynők száma 11
+********
+****KK**
+********
+**K*****
+KK******
+***K*KK*
+**K**K**
+******K*
+
+Királynők száma 12
+KK*K****
+********
+K*K*****
+**K**K**
+K******K
+********
+********
+**KKK***
+
+Királynők száma 13
+*K*K****
+K*****K*
+******K*
+K*******
+K*K*****
+******K*
+*K******
+KK****K*
+
+Királynők száma 14
+K****K*K
+*****K**
+********
+*KK***K*
+***K***K
+*****KK*
+******KK
+***K****
+
+Királynők száma 15
+K****K*K
+K****K**
+********
+******KK
+*K***K**
+***K*K**
+**KK***K
+******K*
+
+Királynők száma 16
+****K*KK
+**K***K*
+K****K**
+*******K
+*******K
+*****K**
+**KKKK*K
+******K*
+
+Királynők száma 17
+*K**K***
+******K*
+K*KK****
+******K*
+****K***
+K*****K*
+*K**K*KK
+**K*K*K*
+
+Királynők száma 18
+K*K*KK**
+K*K**K*K
+K*******
+K***K***
+*K**K***
+***K****
+*K**K*K*
+K*******
+
+Királynők száma 19
+KK******
+K***KK**
+*K*K****
+*K*****K
+K****KK*
+*K*K**K*
+**KKK***
+***K****
+
+Királynők száma 20
+**K***KK
+**K**K*K
+**K****K
+***K****
+*K***K**
+*KK***K*
+KK****K*
+K*K***K*
+
+Királynők száma 21
+*K*K**K*
+*KK*****
+*K*K**K*
+KKKK*KK*
+K*******
+****K***
+******KK
+K**KK***
+
+Királynők száma 22
+K*KK*K**
+**KKKK**
+***KK***
+*KK**K*K
+K*******
+****K*K*
+*K****K*
+K**K**K*
+
+Királynők száma 23
+KK*K*KK*
+**K**K**
+**KK****
+**KKKKK*
+***K*K**
+*K*****K
+K**K****
+***KK*K*
+
+Királynők száma 24
+K******K
+**K*KK**
+*KK**KKK
+K*KK**KK
+KK****K*
+********
+K***K***
+KK***K*K
+
+Királynők száma 25
+K*K*****
+********
+KKK***KK
+****KKK*
+*****K*K
+**KK*KK*
+**KKK*KK
+K*KKK***
+
+Királynők száma 26
+****K***
+*K***K**
+***KKK*K
+*K*K*K*K
+K****K**
+KKK*KK**
+*KKKKKK*
+K***K***
+
+Királynők száma 27
+KKK*K***
+***KKK*K
+***KKK**
+*KKK**K*
+****K*KK
+**K*K*K*
+K*KKK*K*
+K*******
+
+Királynők száma 28
+***K*KKK
+K**K*K*K
+**K**K**
+KK*K*KK*
+**K**K*K
+****K*K*
+*K**K*KK
+**KKKK**
+
+Királynők száma 29
+*KK**K*K
+**KKK***
+K*K***KK
+K***KKKK
+*K*K*KK*
+K***KK**
+***K****
+KKK*KK**
+
+Királynők száma 30
+*K*KKK*K
+*K****K*
+*KKK*KK*
+*K***K*K
+KK**KK*K
+*K*K**K*
+*KK*K*KK
+K****K**
+
+Királynők száma 31
+*K*KKKKK
+KKKK*K**
+KK***K*K
+KKK**K*K
+*******K
+******KK
+*KKKK***
+*K*K**KK
+
+Királynők száma 32
+KKKKK*K*
+**KKK**K
+*K*KKKKK
+KK*K***K
+*K******
+**KK***K
+**KKKKKK
+****KK**
+
+Királynők száma 33
+KK*KK***
+K***K*K*
+KK*KK*K*
+*KKK***K
+*KK**K**
+KK*K*KK*
+K*K*KKK*
+*KK*KK**
+
+Királynők száma 34
+**K*KK*K
+K**K***K
+****K*K*
+KK*KKKKK
+K**KKK*K
+*KKKK*K*
+KKKK***K
+*K*K***K
+
+Királynők száma 35
+KKK*KKK*
+**KK*KK*
+*K**KKKK
+K****KKK
+**K*K***
+*K**KKKK
+K*K****K
+K*KKKK*K
+
+Királynők száma 36
+KKK***KK
+***K*KK*
+K*KKK*KK
+****KKKK
+*K**KKKK
+K**KKK**
+*KKK**K*
+KK***KKK
+
+Királynők száma 37
+KK*K*K**
+K**K**K*
+***K***K
+*KKKK*KK
+KK****KK
+K**K*KK*
+*K*KKKKK
+KKKKKKKK
+
+Királynők száma 38
+K**KK**K
+KKK****K
+**KKKK*K
+KKKK**KK
+*K***KKK
+*K*K***K
+KK*KK*KK
+K*K*KKKK
+
+Királynők száma 39
+*K***KKK
+**KKKK**
+KKKK**KK
+K**KKK*K
+K*KKK***
+KKKKKK**
+K*KK*KKK
+K*KKK***
+
+Királynők száma 40
+***KKKK*
+*K***K**
+K**KKKKK
+KKKK**KK
+K*KKKKKK
+K*K*KKKK
+KKK*K*K*
+KK*KK***
+
+Királynők száma 41
+K*KKKKK*
+*K**K**K
+K*K**KKK
+KK**KKKK
+K**KKKK*
+K*KKK*KK
+KKK*KKKK
+K**KK***
+
+Királynők száma 42
+****KK*K
+K**KKK*K
+KKK*K*KK
+KKKKK**K
+*K**KKKK
+KKKK*KK*
+KK*KKK*K
+K*K*KKK*
+
+Királynők száma 43
+**KK*KKK
+***K*KK*
+K*KKKK**
+K*K*KK**
+*KKKKKK*
+KKKKKKKK
+K*KKK*KK
+K**KKKKK
+
+Királynők száma 44
+KKKKKK*K
+***KKKKK
+KK*KK**K
+K**K**K*
+KKKKKKKK
+K*KKK*K*
+KKKK*KKK
+*K*K*K*K
+
+Királynők száma 45
+KKKKK*KK
+**K**KK*
+K*K**KK*
+*KKKKKK*
+KKK**KKK
+**KKK*KK
+K*KKKKKK
+K*KKKKKK
+
+Királynők száma 46
+K*KKKKK*
+**KK**KK
+*KKK***K
+KKK*KKKK
+*KKKK*KK
+KKKKKKKK
+KKKKKKKK
+*****KKK
+
+Királynők száma 47
+KK*KKKKK
+KKKKKKK*
+*K*KKKK*
+KKK*KKKK
+KKKK*KK*
+K*KKK*KK
+K*KKK**K
+KK***KK*
+
+Királynők száma 48
+KKKKKKKK
+KKK*KKKK
+KKKKKK*K
+KKK*K**K
+*K*K*K*K
+KK*K*KKK
+KKK*KKK*
+K*K*K*KK
+
+Királynők száma 49
+K*KKKK*K
+K*KKKKKK
+KKKK*K*K
+KKKKKKKK
+K**K*KKK
+KKKKK**K
+KKKKKK**
+*K*KKK*K
+
+Királynők száma 50
+KKKKKKK*
+KKK*K*KK
+*KKKK*KK
+*K*KKKKK
+KK*KKKKK
+K*KKKKKK
+KK*KK*K*
+KK*KKK*K
+
+Királynők száma 51
+KK**K*KK
+KK*KKKKK
+*KKKKKKK
+KKK*KKK*
+*KKKK*KK
+KKKKKKKK
+*K*K*KKK
+KKKKKKK*
+
+Királynők száma 52
+KKKKKKKK
+KKKKKKK*
+KKKKKK*K
+***KKK*K
+*KKK*KKK
+K*KKK***
+KKKKKKKK
+KKKKKKKK
+
+Királynők száma 53
+KKKKKKKK
+KK*KK*KK
+**K*KKKK
+K**KKKKK
+KKKKKKKK
+KKK*KKKK
+K*KKKKKK
+KK*KKKK*
+
+Királynők száma 54
+**KKKKK*
+KK*KKKK*
+K*KKKKKK
+*KKKKKKK
+*KKKKKKK
+*KKK*KKK
+KKKKKKKK
+KKKKKKKK
+
+Királynők száma 55
+KK*K*KKK
+***KKKKK
+KKKKKKKK
+KKKKKKKK
+*KKKKKKK
+K*KKKK*K
+KKKKKK*K
+KKKKKKKK
+
+Királynők száma 56
+KKKKK*KK
+KK*K*KKK
+KKKKKKKK
+*KKKKKKK
+KK*KKK*K
+K*KKKKKK
+KKKKKKKK
+KKKKKKK*
+
+Királynők száma 57
+KK*KKKKK
+KKKKKKKK
+KKKKKKK*
+KKKKKKKK
+KK**KKKK
+KK*KKKK*
+KKK*KKKK
+KKKKKKKK
+
+Királynők száma 58
+KK*KKKKK
+KKKKK*KK
+KKKKKKKK
+KKKKKKKK
+K*KKKKKK
+KKKKK*KK
+*KKKKKKK
+KK*KKKKK
+
+Királynők száma 59
+KKKKKKKK
+KKKKKKKK
+KKK*KKKK
+K*KKKKKK
+KKKK*KKK
+KKKKKK*K
+KKKKKKKK
+KK*KKKKK
+
+Királynők száma 60
+KKKKKKKK
+K*KKKKKK
+KKKKKK*K
+KKKK*KK*
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+
+Királynők száma 61
+KKKKKKKK
+KKKKKKKK
+K*KKKKKK
+KKKKKKK*
+KKKKK*KK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+
+Királynők száma 62
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKK*
+KKKKKKKK
+KKKKKK*K
+KKKKKKKK
+
+Királynők száma 63
+KKKKKKKK
+KKK*KKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+
+Királynők száma 64
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+KKKKKKKK
+
